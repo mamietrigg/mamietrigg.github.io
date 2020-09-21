@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to get to know me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Mamie Trigg. People often ask, so to save you the trouble, I pronounce my name like 'May-mee', rhyming with Amy! 
+I am forever growing and changing, but here are some of my cornerstone traits/beliefs:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- To put my trust in luck, coincidence, and hard work; I believe we have the ability to pave our own way.
+- To easily spot four-leaf-clovers in any patch of wild grass. This is my secret talent. I'm appreciative of the minute details and pocket beauties that our wild Earth has to offer. 
+- To love reading fiction, to camp under starlight, to make roadtrip playlists, to cook mac 'n cheese, and to solve problems.
+- To support sustainable practices and the National Park System, and to promote equality and love. 
 
-What else do you need?
+There's much more to me, but it's difficult to encapsulate any person into 4 strict bullet points. Let's talk more - I always love to meet new people. 
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Cheers,
+Mamie 
