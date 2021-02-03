@@ -14,11 +14,11 @@ This blog will allow me to investigate the sustainability practices of companies
 One blog post will be created per company I research, and I will rate each a value 1 to 5.
 
 <ul>
-  <li> 1 = bad sustainability practices, don't buy.</li>
-  <li> 2 = some work has been done/said it's been done, but nothing really has changed. These companies fake sustainability.</li>
-  <li> 3 = work has been done. Minor changes have been made. Some bad practices are still in place.</li>
-  <li> 4 = lots of work has been done. Changes have been made and felt. No major flaws. perhaps some minor things left to work on.</li>
-  <li> 5 = They spread sustainability like wildflower seed.</li>
+  <li> 1 = **Avoid**: bad sustainability practices, don't buy.</li>
+  <li> 2 = **Warning**: some work has been done/said it's been done, but nothing really has changed. These companies fake sustainability.</li>
+  <li> 3 = **Needs Work**: work has been done. Minor changes have been made. Some bad practices are still in place.</li>
+  <li> 4 = **Contributions**: lots of work has been done. Changes have been made and felt. No major flaws. perhaps some minor things left to work on.</li>
+  <li> 5 = **Excellent**: They spread sustainability like wildflower seed.</li>
 </ul>
 
 <br> 
