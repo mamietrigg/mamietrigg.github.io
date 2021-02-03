@@ -15,6 +15,7 @@ author: Mamie Trigg
 
 navbar-links:
   About Me: "aboutme"
+  The Site: "aboutthesite"
   Resources:
     - Adventures Via Instagram: "https://www.instagram.com/mamie_mamienot/"
     - Hanesbrands Sustainability Project: "https://croptocampus.com/"
@@ -94,16 +95,16 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#AC9FBB"
+navbar-col: "#688069"
 navbar-text-col: "#0B2027"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
-text-col: "#0B2027"
-link-col: "#40798C"
-hover-col: "#EA638C"
-footer-col: "#AC9FBB"
-footer-text-col: "#0B2027"
-footer-link-col: "#40798C"
+text-col: "#21270C"
+link-col: "#B3CB5D"
+hover-col: "#EEF1EE"
+footer-col: "#688069"
+footer-text-col: "#21270C"
+footer-link-col: "#B3CB5D"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -185,7 +186,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "America/Dallas"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
