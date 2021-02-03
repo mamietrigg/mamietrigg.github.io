@@ -18,7 +18,7 @@ One blog post will be created per company I research, and I will rate each a val
   <li> 2 = <b>Warning</b>: some work has been done/said it's been done, but nothing really has changed. These companies fake sustainability.</li>
   <li> 3 = <b>Needs Work</b>: work has been done. Minor changes have been made. Some bad practices are still in place.</li>
   <li> 4 = <b>Contributions</b>: lots of work has been done. Changes have been made and felt. No major flaws. perhaps some minor things left to work on.</li>
-  <li> 5 = <b>Excellent</b>: They spread sustainability like wildflower seed.</li>
+  <li> 5 = <b>Excellent</b>: spreading sustainability practices like wildflower seed.</li>
 </ul>
 
 <br> 
