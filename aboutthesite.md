@@ -1,3 +1,9 @@
+---
+layout: page
+title: About the Site
+subtitle: What is the rating system for companies in each blog post?
+---
+
 howdy all.
 
 
