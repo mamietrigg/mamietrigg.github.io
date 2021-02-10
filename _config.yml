@@ -97,14 +97,14 @@ feed_show_tags: true
 
 ############ COLORS ################
 #main color bar top and bottom
-navbar-col: "#688069" 
+navbar-col: "#688069" # pretty pale green
 footer-col: "#688069"
+
+# main top bar border
+navbar-border-col: "#688069" #make it the same as above
 
 # text color in main top bar
 navbar-text-col: "#0B2027"
-
-# main top bar border
-navbar-border-col: "#DDDDDD" #really light gray
 
 # page background color
 page-col: "#FFFFFF" #white
