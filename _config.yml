@@ -95,16 +95,33 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#688069"
-navbar-text-col: "#0B2027"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#21270C"
-link-col: "#B3CB5D"
-hover-col: "#E19718" #"#EEF1EE"
+############ COLORS ################
+#main color bar top and bottom
+navbar-col: "#688069" 
 footer-col: "#688069"
+
+# text color in main top bar
+navbar-text-col: "#0B2027"
+
+# main top bar border
+navbar-border-col: "#DDDDDD" #really light gray
+
+# page background color
+page-col: "#FFFFFF" #white
+
+# text color
+text-col: "#21270C" #super dark green
 footer-text-col: "#21270C"
-footer-link-col: "#B3CB5D"
+
+
+# link colors (and circle button links at page bottom)
+link-col: "#042900" # dark forest green 
+footer-link-col: "#042900"
+
+# hovering over text link turns text this color
+hover-col: "#E97E20" #pumpkin orange
+############ COLORS ################
+
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
